@@ -1,1 +1,8 @@
-# pong_vga
+# Pong Game using VGA on Zybo
+
+## Overview
+
+## Hardware Setup
+
+## Screenshots
+
